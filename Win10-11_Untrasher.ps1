@@ -118,7 +118,7 @@ process
       '*Tile*',                                         # Tile
       '*BangolufsenAudioControl*',                      # Bang and Olufsen Audio Control
       '*Dropbox*',                                      # Dropbox
-      '*NVIDIAControlPanel*',
+      '*NVIDIAControlPanel*',                           # NVIDIA Control Panel
 
       # Intel
       '*Optane*',                                       # Intel Optane Memory and Storage Management
