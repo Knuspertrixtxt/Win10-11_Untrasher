@@ -3,7 +3,6 @@
 This script removes all the bloatware from your Windows 10 or Windows 11 machine.
 It provides a tidy Windows system.
 
-</p>
 
 The script also remove bloatware from HP. Other brands are planed.
 
